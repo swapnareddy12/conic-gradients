@@ -1,0 +1,9 @@
+#grad{
+    
+    height: 300px;
+    width: 200px;
+    background-color:conic-gradient( royalblue,rebeccapurple);
+    background-image: conic-gradient(purple 45deg,violet);
+    border-radius: 50%;
+
+}
